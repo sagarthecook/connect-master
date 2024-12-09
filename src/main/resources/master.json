@@ -1,0 +1,13 @@
+{
+  "message" : "Hello , Please select below option",
+  "menus": [
+    {
+      "id": "1",
+      "name": "Job Posting"
+    },
+    {
+      "id": "2",
+      "name": "Employee Profile"
+    }
+  ]
+}
