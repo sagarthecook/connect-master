@@ -3,3 +3,13 @@
 
 ![image](https://github.com/user-attachments/assets/ef52dd82-2a98-4079-b98f-5f265963b201)
 
+
+API - > http://localhost:8080/api/connectmaster/v1/questions/{menuId}
+
+![image](https://github.com/user-attachments/assets/ad18a68a-95eb-4202-bcda-abb421cd88d2)
+
+API - >http://localhost:8080/api/connectmaster/v1/questions/{menuId}
+![image](https://github.com/user-attachments/assets/980ecb2b-4dc5-40ee-ad2d-613bc4824dc7)
+
+
+
