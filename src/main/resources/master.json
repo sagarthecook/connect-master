@@ -9,7 +9,7 @@
           "questionId": "1",
           "question" : "Please select required skill set?",
           "dataType": "string",
-          "uiControlType":"multi-select-dropdown",
+          "uiControlType":"dropdown",
           "values": ["Java","Oracle","Mongo","Spring","Angular","Node","React","Kafka","Spring-boot"],
           "answer": ""
         },
@@ -37,15 +37,15 @@
         {
           "questionId": "2",
           "question" : "Please enter year of experience",
-          "dataType": "number",
-          "uiControlType":"number-field",
+          "dataType": "string",
+          "uiControlType":"text-field",
           "answer": ""
         },
         {
           "questionId": "3",
           "question" : "Please select your tech set",
           "dataType": "string",
-          "uiControlType":"multi-select-dropdown",
+          "uiControlType":"dropdown",
           "values": ["Java","Oracle","Mongo","Spring","Angular","Node","React","Kafka","Spring-boot"],
           "answer": ""
         },
