@@ -1,9 +1,6 @@
-package com.conectmaster.dto;
-
-import com.conectmaster.dto.response.Menu;
+package com.conectmaster.dto.conversion;
 
 import java.util.List;
-
 
 public class Master {
    private String message;
@@ -13,6 +10,14 @@ public class Master {
     }
     public Master(String message, List<Menu> menus) {
         this.message = message;
+        this.menus = menus;
+    }
+
+    public void setMessage(String message) {
+        this.message = message;
+    }
+
+    public void setMenus(List<Menu> menus) {
         this.menus = menus;
     }
 

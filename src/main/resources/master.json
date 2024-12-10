@@ -3,11 +3,61 @@
   "menus": [
     {
       "id": "1",
-      "name": "Job Posting"
+      "name": "Job Posting",
+      "questions": [
+        {
+          "questionId": "1",
+          "question" : "Please select required skill set?",
+          "dataType": "string",
+          "uiControlType":"multi-select-dropdown",
+          "values": ["Java","Oracle","Mongo","Spring","Angular","Node","React","Kafka","Spring-boot"],
+          "answer": ""
+        },
+        {
+          "questionId": "2",
+          "question" : "Please select location ?",
+          "dataType": "string",
+          "uiControlType":"dropdown",
+          "values":["India-Pune","India-Hyderabad","India-Bangalore","India-Chennai"],
+          "answer": ""
+        }
+      ]
     },
     {
       "id": "2",
-      "name": "Employee Profile"
+      "name": "Employee Profile",
+      "questions": [
+        {
+          "questionId": "1",
+          "question" : "Please enter your name?",
+          "dataType": "string",
+          "uiControlType":"text-field",
+          "answer": ""
+        },
+        {
+          "questionId": "2",
+          "question" : "Please enter year of experience",
+          "dataType": "number",
+          "uiControlType":"number-field",
+          "answer": ""
+        },
+        {
+          "questionId": "3",
+          "question" : "Please select your tech set",
+          "dataType": "string",
+          "uiControlType":"multi-select-dropdown",
+          "values": ["Java","Oracle","Mongo","Spring","Angular","Node","React","Kafka","Spring-boot"],
+          "answer": ""
+        },
+        {
+          "questionId": "4",
+          "question" : "Please select location ?",
+          "dataType": "string",
+          "uiControlType":"dropdown",
+          "values":["India-Pune","India-Hyderabad","India-Bangalore","India-Chennai"],
+          "answer": ""
+        }
+      ]
     }
   ]
 }

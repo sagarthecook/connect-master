@@ -1,6 +1,6 @@
 package com.conectmaster.utils;
 
-import com.conectmaster.dto.Master;
+import com.conectmaster.dto.conversion.Master;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.io.IOException;
