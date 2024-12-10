@@ -11,5 +11,9 @@ API - > http://localhost:8080/api/connectmaster/v1/questions/{menuId}
 API - >http://localhost:8080/api/connectmaster/v1/questions/{menuId}
 ![image](https://github.com/user-attachments/assets/980ecb2b-4dc5-40ee-ad2d-613bc4824dc7)
 
+API -> Save Question http://localhost:8080/api/connectmaster/v1/questions
+    
+![image](https://github.com/user-attachments/assets/f7df87d2-02b0-44b2-bbb1-4494ce0d07fe)
+
 
 
