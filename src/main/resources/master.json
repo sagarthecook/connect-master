@@ -29,21 +29,21 @@
       "questions": [
         {
           "questionId": "1",
-          "question" : "Please enter your name?",
+          "question" : "Please enter your name ?",
           "dataType": "string",
           "uiControlType":"text-field",
           "answer": ""
         },
         {
           "questionId": "2",
-          "question" : "Please enter year of experience",
+          "question" : "Please enter year of experience ?",
           "dataType": "string",
           "uiControlType":"text-field",
           "answer": ""
         },
         {
           "questionId": "3",
-          "question" : "Please select your primary skill",
+          "question" : "Please select your primary skill ?",
           "dataType": "string",
           "uiControlType":"dropdown",
           "values": ["Java","Java 2EE" ,"Spring","Web Services","Oracle","Mongo"],
@@ -51,7 +51,7 @@
         },
         {
           "questionId": "4",
-          "question" : "Please select your secondary skill",
+          "question" : "Please select your secondary skill ?",
           "dataType": "string",
           "uiControlType":"dropdown",
           "values": ["JavaScript","CSS","HTML5","Kafka","Maven"],
