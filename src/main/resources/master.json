@@ -43,14 +43,22 @@
         },
         {
           "questionId": "3",
-          "question" : "Please select your tech set",
+          "question" : "Please select your primary skill",
           "dataType": "string",
           "uiControlType":"dropdown",
-          "values": ["Java","Oracle","Mongo","Spring","Angular","Node","React","Kafka","Spring-boot"],
+          "values": ["Java","Java 2EE" ,"Spring","Web Services","Oracle","Mongo"],
           "answer": ""
         },
         {
           "questionId": "4",
+          "question" : "Please select your secondary skill",
+          "dataType": "string",
+          "uiControlType":"dropdown",
+          "values": ["JavaScript","CSS","HTML5","Kafka","Maven"],
+          "answer": ""
+        },
+        {
+          "questionId": "5",
           "question" : "Please select location ?",
           "dataType": "string",
           "uiControlType":"dropdown",
